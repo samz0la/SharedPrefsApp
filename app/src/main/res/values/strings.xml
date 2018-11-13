@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">SharedPrefsApp</string>
+  <string name="string_key" translatable="false">FOO</string>
+  <string name="bundle_string_key" translatable="false">BUNDLE_STRING_KEY</string>
+</resources>
